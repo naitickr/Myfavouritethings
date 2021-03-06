@@ -1,0 +1,27 @@
+body  {
+background-image: linear-gradient(lightblue,lightgreen);
+text-align: center;
+} 
+h1{
+font-family: cursive;  
+ font-size: 40; 
+} 
+p{
+font-family: fantasy; 
+ font-size: 30;
+}  
+#face{
+height: 70px;
+} 
+.menu{
+position: absolute;
+top:10px; 
+right:30px;
+z-index: auto; 
+color: chocolate;
+list-style: none;
+margin-top: 10px;
+} 
+.link:hover{
+background: lightgreen;
+}
